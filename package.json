@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "MEAN Stack Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arch-DJ/Blog-using-MEAN-Stack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "6",
+    "Application"
+  ],
+  "author": "Divyansh Jamuaar",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/arch-DJ/Blog-using-MEAN-Stack/issues"
+  },
+  "homepage": "https://github.com/arch-DJ/Blog-using-MEAN-Stack#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.3"
+  }
+}
